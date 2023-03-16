@@ -1,0 +1,6 @@
+local Crusifixes = 1
+_G.Uses = 100000
+_G.Range = 30
+for lol = 1,Crucifixs do
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PenguinManiack/Crucifix/main/Crucifix.lua'))()
+end
